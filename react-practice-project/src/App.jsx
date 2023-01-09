@@ -31,8 +31,8 @@ const App = () => (
 
       <div className={`${styles.boxWidth}`}>
         <Stats />
-        <Billing />
         <Business />
+        <Billing />
         <CardDeal />
         <Testimonials />
         <Clients />
